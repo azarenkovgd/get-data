@@ -5,8 +5,8 @@
 * ```git clone https://github.com/azarenkovgd/get-data/```
 * ```cd get-data```
 * При необходимости установить virtual enviroment через ```apt-get install python3-venv```
-* Создание venv ```python3 -m venv```.
-* Активация ```source bin/activate```
+* Создание venv ```python3 -m venv venv```.
+* Активация ```source venv/bin/activate```
 * Установка требуемых библиотек ```pip install -r requirements.txt```
 
 

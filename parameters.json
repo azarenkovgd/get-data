@@ -1,0 +1,5 @@
+{
+    "parameters": ["full_name", "name", "site_url"],
+    "headers": ["Полное название", "Короткое название", "Адрес сайта"],
+    "url": "http://dop.edu.ru/organization/list?institution_type=188&orientation=3&region=42&page=1&perPage=20"
+}
